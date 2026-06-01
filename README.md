@@ -10,6 +10,6 @@ Contiene el diseño de la interfaz gráfica de la aplicación, incluyendo los ca
 
 Implementa la lógica de la aplicación, validando los datos ingresados por el usuario y mostrando mensajes de error o éxito según corresponda.
 
-### demostracion.mp4
+### LoginApp.mp4
 
 Video que muestra el funcionamiento de la aplicación y las validaciones implementadas.
